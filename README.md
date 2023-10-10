@@ -8,3 +8,6 @@ Access to protected routes is permitted when logged in thanks to the management 
 - React-router-dom is used by the application for client-side routing.
 The home page, event listings, blog listings, login, registration, and service details are just a few of the pages that are available.
 PrivateRoute makes certain routes secure and only available to users who have been authenticated.
+ - A JSON data source (data.json) is loaded and used to show dynamic content.
+The homepage features content that was probably loaded from data.json and features events or services.
+The data source is listed and shown on the event and blog pages.
