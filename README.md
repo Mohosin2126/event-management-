@@ -14,3 +14,5 @@ The data source is listed and shown on the event and blog pages.
 - The application has a responsive user interface with a navigation bar, allowing easy navigation between pages.
 User-friendly forms are provided for login and registration.
 User profile information and authentication status are displayed in the navigation bar.
+- Users can view detailed information about specific services or events by navigating to the "Service Details" page.
+This page is protected and only accessible to authenticated users.
