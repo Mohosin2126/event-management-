@@ -26,7 +26,7 @@ const googleSignIn=(value)=>{
 
  useEffect (()=>{
  const unSubscribe=onAuthStateChanged(auth,currentUser=>{
-        console.log("user in the auth statechanged",currentUser)
+   
         setUser(currentUser)
         setLoading(false)
     })

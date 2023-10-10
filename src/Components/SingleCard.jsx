@@ -1,7 +1,7 @@
 
 
 const SingleCard = ({single}) => {
-    console.log(single)
+
     
     return (
         <div className="card w-full bg-base-100 shadow-xl my-10">

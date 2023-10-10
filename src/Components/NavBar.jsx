@@ -4,7 +4,7 @@ import { AuthContext } from "../firebase/AuthProvider";
 
 const NavBar = () => {
   const { user, logOut } = useContext(AuthContext);
-  console.log(user?.photoURL)
+
   const handleSignOut = () => {
       logOut()
           .then()

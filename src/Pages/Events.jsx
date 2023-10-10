@@ -5,10 +5,10 @@ import EventsCard from "../Components/EventsCard";
 const Events = () => {
    const [allServices,setAllServices]=useState([])
    useEffect(()=>{
-    fetch("../../public/data.json")
+    fetch("/data.json")
     .then(res=>res.json())
     .then(data=>setAllServices(data))
-    console.log(allServices)
+  
    },[])
 
     return (

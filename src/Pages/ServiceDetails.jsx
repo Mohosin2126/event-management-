@@ -7,7 +7,7 @@ const ServiceDetails = () => {
   const [singleData,setSingleData]=useState([])
 
 useEffect(()=>{
-    fetch("./../../public/data.json")
+    fetch("/data.json")
     .then(res=>res.json())
     .then(data=>{
      const allData = data.filter((data)=>data.id==id)

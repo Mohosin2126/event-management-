@@ -5,13 +5,13 @@ import { AuthContext } from "../firebase/AuthProvider";
 
 const Login = () => {
     const { signIn ,googleSignIn } = useContext(AuthContext);
-    console.log(googleSignIn)
+    
 const location =useLocation()
 const naviGate=useNavigate()
   const handleGoogle=()=>{
     googleSignIn()
     .then(result=>{
-        console.log(result.user)
+    
         naviGate(location?.state? location.state:"/")
     })
   }
@@ -20,10 +20,10 @@ const naviGate=useNavigate()
         const form = new FormData(e.currentTarget);
         const email = form.get('email');
         const password = form.get('password');
-        console.log(email, password);
+     
         signIn(email, password)
             .then(result => {
-                console.log(result.user);
+              
                 naviGate(location?.state? location.state:"/")
                
               
