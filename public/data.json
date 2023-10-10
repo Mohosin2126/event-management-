@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Wedding Planning",
+      "image": "https://i.ibb.co/1sXQrL8/gettyimages-922890130-sf.webp",
+      "price": "$10,000 - $25,000",
+      "description": "Expert wedding planning services to make your special day truly unforgettable.",
+      "briefDescription": "Our wedding planning services offer a comprehensive approach to crafting your dream wedding. From venue selection to decor, we ensure every detail reflects your love story. Our wedding planning services offer a comprehensive approach to crafting your dream wedding. From venue selection to decor, we ensure every detail reflects your love story. Let us take the stress out of planning this significant day so you can focus on making memories that will last a lifetime. Our experienced team will work tirelessly to ensure that every aspect of your wedding is as unique and special as your love for each other."
+    },
+    {
+      "id": 2,
+      "name": "Birthday Party",
+      "image": "https://i.ibb.co/vJPzv1c/101-Of-Planning-An-Unforgettable-Kids-Birthday-Party.jpg",
+      "price": "$1,500 - $5,000",
+      "description": "Celebrate your birthday in style with our party planning services.",
+      "briefDescription": "Make your birthday unforgettable with our party planning expertise. From themes to entertainment, we create a celebration tailored to you .Make your birthday unforgettable with our party planning expertise. From themes to entertainment, we create a celebration tailored to you. Whether you're planning an intimate gathering with close friends or a larger-than-life extravaganza, we'll handle all the details, leaving you free to enjoy your special day to the fullest. Let us turn your birthday dreams into reality!"
+    },
+    {
+      "id": 3,
+      "name": "Corporate Gala",
+      "image": "https://i.ibb.co/8706ZLn/Untitled-1.jpg",
+      "price": "$20,000 - $50,000",
+      "description": "Organize a grand corporate gala event with our event planning expertise.",
+      "briefDescription": "Elevate your corporate image with our gala event planning. Impeccable details and a touch of glamour make your event unforgettable. Elevate your corporate image with our gala event planning. Impeccable details and a touch of glamour make your event unforgettable. Whether you're hosting an awards ceremony, a product launch, or a corporate dinner, our team will ensure your gala event reflects your brand's excellence and leaves a lasting impression on your guests."
+    },
+    {
+      "id": 4,
+      "name": "Baby Shower",
+      "image": "https://i.ibb.co/dcxLTQG/71a-Fwx-Bec3-L-AC-UF1000-1000-QL80.jpg",
+      "price": "$1,000 - $3,000",
+      "description": "Plan a beautiful baby shower with our event coordination services.",
+      "briefDescription": "Celebrate new life with our baby shower coordination. We add charm and joy to your event, making it a cherished memory. Let us help you welcome your new arrival in style. Our creative ideas and attention to detail will make your baby shower a heartwarming and delightful experience for all.Celebrate new life with our baby shower coordination. We add charm and joy to your event, making it a cherished memory. Let us help you welcome your new arrival in style. Our creative ideas and attention to detail will make your baby shower a heartwarming and delightful experience for all."
+    },
+    {
+      "id": 5,
+      "name": "Anniversary Celebration",
+      "image": "https://i.ibb.co/QcHMmcV/1686748229-small.jpg",
+      "price": "$2,500 - $7,000",
+      "description": "Create lasting memories with our anniversary celebration planning.",
+      "briefDescription": "Honor your love story with our anniversary planning. We create an atmosphere of love and nostalgia that will be remembered forever.Honor your love story with our anniversary planning. We create an atmosphere of love and nostalgia that will be remembered forever. Whether it's your first anniversary or a milestone celebration, we'll design an event that reflects your journey together, ensuring a romantic and memorable experience"
+    },
+    {
+      "id": 6,
+      "name": "Engagement Party",
+      "image": "https://i.ibb.co/PFLd99Z/588b8b314aec-engagement-party-t-jpg.webp",
+      "price": "$1,200 - $3,500",
+      "description": "Celebrate your engagement with an unforgettable party.",
+      "briefDescription": "Mark the beginning of your journey together with an engagement party that sets the tone for your future. Our creative touch ensures it's magical.Mark the beginning of your journey together with an engagement party that sets the tone for your future. Our creative touch ensures it's magical. Let us help you celebrate this special milestone with an engagement party that captures the excitement and anticipation of your upcoming wedding. We'll handle the details so you can focus on the love you share."
+    },
+    {
+      "id": 7,
+      "name": "Holiday Event",
+      "image": "https://i.ibb.co/rH2LNg0/holiday-event-marketing.jpg",
+      "price": "$2,000 - $6,000",
+      "description": "Plan a festive holiday event for your friends and family.",
+      "briefDescription": "Make the holiday season special with our event planning. We add the warmth and joy of the season to your gathering.Make the holiday season special with our event planning. We add the warmth and joy of the season to your gathering. Whether it's a festive family gathering or a holiday party for friends and colleagues, we'll infuse your event with the spirit of the season, creating a joyful and memorable experience for all."
+    },
+    {
+      "id": 8,
+      "name": "Graduation Party",
+      "image": "https://i.ibb.co/K6BT5G3/college-graduation-party-ideas.jpg",
+      "price": "$800 - $2,500",
+      "description": "Celebrate your academic achievements with a memorable graduation party.",
+      "briefDescription": "Acknowledge your academic journey with a graduation party that reflects your success. We create an atmosphere of achievement and pride.Acknowledge your academic journey with a graduation party that reflects your success. We create an atmosphere of achievement and pride. Celebrate your academic accomplishments with a graduation party that showcases your hard work and dedication. Our planning will ensure your party is a reflection of your achievements and a source of pride for you and your loved ones."
+    }
+  ]
+  
