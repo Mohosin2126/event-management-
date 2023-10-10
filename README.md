@@ -11,3 +11,6 @@ PrivateRoute makes certain routes secure and only available to users who have be
  - A JSON data source (data.json) is loaded and used to show dynamic content.
 The homepage features content that was probably loaded from data.json and features events or services.
 The data source is listed and shown on the event and blog pages.
+- The application has a responsive user interface with a navigation bar, allowing easy navigation between pages.
+User-friendly forms are provided for login and registration.
+User profile information and authentication status are displayed in the navigation bar.
