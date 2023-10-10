@@ -18,9 +18,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>The variable name has a typographical error in the code excerpt. Although it is declared as greeting, the incorrect variable name greetign is later used to add a value to it. In order to indicate that greetign is not declared, JavaScript will fail to recognise greetign as a defined variable and will throw a ReferenceError.
+</i>
 
 </p>
 </details>
@@ -43,9 +44,10 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C 
 
-<i>Write your explanation here</i>
+<i>The sum function is called in the code snippet with the inputs 1 and "2". In order to accomplish string concatenation, JavaScript applies type coercion on the number 1 in the + operator. Thus, by joining the two numbers together, the function outputs the string "12".
+</i>
 
 </p>
 </details>
@@ -94,9 +96,10 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>The sum function is called in the code snippet with the inputs 1 and "2". In order to accomplish string concatenation, JavaScript applies type coercion on the number 1 in the + operator. Thus, by joining the two numbers together, the function outputs the string "12".
+</i>
 
 </p>
 </details>
@@ -122,9 +125,10 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>The forEach method in the code snippet loops through each item in the nums array. The if (num) condition determines whether the current element num is truthy (not equal to 0) before the callback function is performed for each element. This condition is true for all items other than the initial one (zero), in which case the count variable is increased by one for each of these true values. As a result, the count finally has a value of 3, which is recorded to the console.
+</i>
 
 </p>
 </details>
